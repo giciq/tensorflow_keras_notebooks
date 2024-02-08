@@ -1,6 +1,6 @@
 These are Tensorflow and Keras ML models written in Google Collab.
-Part with the numbering was written during a course of Tensorflow.
-Other part was written during university classes.
+The part with the numbering was written during a course of Tensorflow.
+The other part was written during university classes.
 
 It contains models based on:
 * NN regression,
