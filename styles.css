@@ -45,3 +45,13 @@
       flex: 1;
     }
 }
+
+@media only screen and (max-width: 1000px) {
+  .page-wrapper.layout-file .left-side {
+    flex: 0;
+  }
+
+  .page-wrapper.layout-file .right-side {
+    flex: 1;
+  }
+}
