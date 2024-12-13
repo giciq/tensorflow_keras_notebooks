@@ -1,9 +1,9 @@
 .page-wrapper.layout-file .left-side {
-    flex: 1;
+    flex: 1 !important;
 }
   
 .page-wrapper.layout-file .right-side {
-    flex: 1;
+    flex: 1 !important;
 }
 
 .page-wrapper.layout-file .left-side .left-panel-image {
